@@ -9,7 +9,7 @@ AmorCare adalah website yang dirancang dengan analisis berbasis Machine Learning
   Menggunakan MobileNetV2 yang ditingkatkan dengan fine-tuning untuk akurasi optimal.
 
 -  **Aplikasi Web Responsif**  
-  Antarmuka web interaktif dan ringan, dapat diakses melalui berbagai perangkat. [Web AmorCare](https://amorcare.netlify.app/)
+  Antarmuka web interaktif dan ringan, dapat diakses melalui berbagai perangkat. [Web AmorCare](https://amorcare-project.netlify.app/)
 
 -  **Evaluasi Model Transparan**  
   Disertai metrik evaluasi seperti akurasi, precision, recall, f1-score, dan confusion matrix.
